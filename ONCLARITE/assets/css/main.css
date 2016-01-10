@@ -1,0 +1,41 @@
+body {font-family:arial;font-size:12px;cursor:default;}
+td {font-family:arial;font-size:12px;cursor:default;}
+a {color:3A88C2;text-decoration:none;font-size:16px}
+a:hover {color:3A88C2;text-decoration:underline}
+textarea {
+	height:60px;
+}
+input, textarea, select {
+	border-width:3;
+	font-family:arial;
+	font-size:12px;
+	padding:5px;
+	height:40px;
+	border-color:CCCCCC;
+	border-style:solid;
+	background-color:#FFFFFF;
+	color:#000000;
+	border-radius: 3px;
+}
+textarea {
+	height:60px;
+}
+.logo{
+font-size:35px;color:#ffffff;font-family:Times;
+}
+.slogan{
+font-size:14px;color:ffffff;padding:0 0 0 10;
+}
+.class1{
+font-size:18px;color:#ffffff;font-family:Times;
+}
+#mainwrapper {
+	align : center;
+	padding: 10px;
+}
+.error {
+	color : red;
+}
+#wrapper {
+	padding: 30px;
+}
